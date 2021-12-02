@@ -7,3 +7,8 @@ Kompilacja
 javac Main.java
 java Main 123456
 ```
+
+Wyjśćie
+```shell
+sto dwadzieścia trzy tysięcy czterysta pięćdziesiąt sześć
+```

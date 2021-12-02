@@ -5,5 +5,5 @@ Kompilacja
 ```shell
 
 javac Main.java
-java Main number
+java Main 123456
 ```

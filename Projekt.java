@@ -1,5 +1,3 @@
-package com.company;
-
 class NumberToString {
 
     private String wynik = "";
@@ -66,9 +64,13 @@ class NumberToString {
     }
 }
 
-public class Projekt {
+public class Main {
     public static void main(String[] args) {
+        if(args.length==0){
+            System.out.println("Wpisz w argumencie cyfre");
+            System.exit(1);
+        }
         NumberToString number = new NumberToString(args[0]);
-        System.out.printf(number.numberToString());
+        System.out.println(number.numberToString());
     }
 }

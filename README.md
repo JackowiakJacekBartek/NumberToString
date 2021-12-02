@@ -8,7 +8,7 @@ javac Main.java
 java Main 123456
 ```
 
-Wyjśćie
+Wyjście
 ```shell
 sto dwadzieścia trzy tysięcy czterysta pięćdziesiąt sześć
 ```

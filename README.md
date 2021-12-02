@@ -1,2 +1,9 @@
 # NumberToString
-Kod zamienia liczbe na słowa
+Program napisany na podstawy programowania.
+
+Kompilacja
+```shell
+
+javac Projekt.java
+java Projekt
+```
